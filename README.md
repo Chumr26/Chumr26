@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-
-![Cyberpunk Cyberpunk 2077 GIF - Cyberpunk Cyberpunk 2077 Cyberpunk Edgerunners - Discover   Share GIFs](https://github.com/user-attachments/assets/e00ce1d0-843e-43f4-93e8-e6833f076868)
-![download (1)](https://github.com/user-attachments/assets/b7d9dae2-9601-4fef-adc9-42ef93ff5fc5)
 ![download (3)](https://github.com/user-attachments/assets/62a44717-1d26-44df-89a8-361e2c5bff3d)
-![download (4)](https://github.com/user-attachments/assets/f03db71b-606a-42b2-91ab-d5c6b5002d99)
-
 
 **Chumr26/Chumr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
