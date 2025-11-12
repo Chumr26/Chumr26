@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--
+
+https://github.com/user-attachments/assets/c020d9e3-3d27-49b4-b596-da8aa6ecf92d
+
+
 **Chumr26/Chumr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
