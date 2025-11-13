@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-<img src="donut.gif" alt="donut" width="100%">
-
-![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/24662d2e-3782-451b-990f-229aef95e24b)
-
-![download (3)](https://github.com/user-attachments/assets/62a44717-1d26-44df-89a8-361e2c5bff3d)
+![donut11](donut11.gif)
 
 **Chumr26/Chumr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
