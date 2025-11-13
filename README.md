@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="donut.gif" alt="donut" width="100%" />
+<img src="donut.gif" alt="donut" width="100%">
 
 ![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/24662d2e-3782-451b-990f-229aef95e24b)
 
