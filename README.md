@@ -11,7 +11,9 @@ Here are some facts about me:
     <!-- -   👯 I’m looking to collaborate on ... -->
     <!-- -   🤔 I’m looking for help with ... -->
     <!-- -   💬 Ask me about ... -->
--   📫 How to reach me: - mail: nguyenanhkhoa26092002@gmail.com - phone: +84 59 090 159
+-   📫 How to reach me: 
+    - mail: nguyenanhkhoa26092002@gmail.com 
+    - phone: +84 59 090 159
 <!-- -   😄 Pronouns: ... -->
 -   ⚡ Fun fact: I love and hate mathematics at the same time.
 
