@@ -1,4 +1,5 @@
-![donut11](donut.gif)
+<!-- ![donut](donut.gif) -->
+![donut1](tranparent-donut.gif)
 
 ## Hi there 👋
 
