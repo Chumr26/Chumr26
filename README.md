@@ -76,10 +76,10 @@ Web and Mobile Development | DevOps | Cybersecurity
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chumr26&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-puce-ten-23.vercel.app/api/top-langs/?username=Chumr26&layout=compact&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chumr26&show_icons=true&theme=radical&hide=contribs&rank_icon=percentile)
+![Anurag's GitHub stats](https://github-readme-stats-puce-ten-23.vercel.app/api?username=Chumr26&show_icons=true&theme=radical&hide=contribs&rank_icon=percentile)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chumr26&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Chumr26&theme=radical)
 
 </div>
