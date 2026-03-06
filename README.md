@@ -24,6 +24,7 @@ Web and Mobile Development | DevOps | Cybersecurity
 **Programming languages (proficiency percentage):**
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-100%25-F7DF1E?logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-90%25-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-80%25-%23239120.svg?logo=cshrp&logoColor=black)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/Python-75%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-50%25-%23ED8B00.svg?logo=openjdk&logoColor=ED8B00)](https://www.oracle.com/java/)
@@ -41,10 +42,14 @@ Web and Mobile Development | DevOps | Cybersecurity
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com/)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](https://www.php.net/)
 [![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)](https://nginx.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+**Mobile Development:**
+
+[![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-000?logo=expo&logoColor=fff)](https://expo.dev/)
 
 **Databases:**
 
